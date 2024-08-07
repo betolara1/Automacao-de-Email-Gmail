@@ -6,11 +6,8 @@ Será necessário criar um documento em texto com todos os destinatários, com o
 Criado o Arquivo "email.txt", colar os e-mails dentro do arquivo e salvá-lo, sendo que cada e-mail deverá estar uma linha. 
 
 Ex: abc@abc.com
-
 dce@dcr.com
-
 par@par.com
-
 ...
 
 
