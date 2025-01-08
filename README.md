@@ -24,7 +24,7 @@ Script de automação em Python para envio de emails em massa através do Gmail.
    ```bash
    git clone https://github.com/betolara1/Automacao-de-Email-Gmail.git
    cd Automacao-de-Email-Gmail
-   '''
+
 
 2. Crie um arquivo `email.txt` com a lista de destinatários:
 
